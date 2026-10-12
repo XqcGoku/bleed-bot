@@ -1,4 +1,4 @@
-const { token, default_prefix, color } = require("./config.json");
+const { MTU1ODQ3MjEzMjY4NDQyMzMwOA.Gsevxr.8SQPgm5A_BNpK6pZmqS1mBEa5GzEtlxoDj2dQ4, ., red } = require("./config.json");
 const Discord = require("discord.js");
 require("@haileybot/sanitize-role-mentions")();
 const client = new Discord.Client({
@@ -22,4 +22,4 @@ module.exports = client;
 });
 Discord.Constants.DefaultOptions.ws.properties.$browser = "Discord Android"
 
-client.login(token)
+client.login(MTU1ODQ3MjEzMjY4NDQyMzMwOA.Gsevxr.8SQPgm5A_BNpK6pZmqS1mBEa5GzEtlxoDj2dQ4)
